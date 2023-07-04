@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Tilt Prism', cursive;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 85px;
+}
+.row{
+    margin: 6px 0;
+}
+
+.row input{
+    width: 290px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
